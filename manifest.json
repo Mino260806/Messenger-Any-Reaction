@@ -1,0 +1,26 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/inject-script.js" ],
+      "matches": [ "https://www.facebook.com/messages/*", 
+		   "http://www.facebook.com/messages/*", 
+  		   "https://www.messenger.com/*", 
+  		   "http://www.messenger.com/*", 
+		   "https://www.facebook.com/*", 
+		   "http://www.facebook.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Adds the plus sign reaction to Facebook Messenger",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "64": "icons/icon64.png"
+   },
+   "manifest_version": 2,
+   "name": "Plus Sign For Messenger",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0",
+   "web_accessible_resources": [ "js/main.js", "js/reactions.js" ]
+}
