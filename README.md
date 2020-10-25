@@ -15,6 +15,6 @@ And then just choose an emoji:
 - Just open messenger.com and try to react to any message !
 
 ## Tested on
-- Chrome 86.0.4240.111 64-bit from windows 10
+- Chrome 86.0.4240.111 64-bit (windows 10)
 
 Credits: [Heart eyes for messenger](https://chrome.google.com/webstore/detail/heart-eyes-for-messenger/fomiebabmnhlmlinnikampfblffjceoi)
