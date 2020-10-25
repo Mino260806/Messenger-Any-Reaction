@@ -14,4 +14,7 @@ And then just choose an emoji:
 - Tap on load unpacked (top left corner) and select the folder you extracted the extension to
 - Just open messenger.com and try to react to any message !
 
+## Tested on
+- Chrome 86.0.4240.111 64-bit from windows 10
+
 Credits: [Heart eyes for messenger](https://chrome.google.com/webstore/detail/heart-eyes-for-messenger/fomiebabmnhlmlinnikampfblffjceoi)
