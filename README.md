@@ -7,7 +7,8 @@ And then just choose an emoji:
 
 ![screenshot1](https://github.com/Mino260806/Messenger-Any-Reaction/blob/main/screenshots/screenshot2.png?raw=true)
 
-- To enable the extension, download this repo and extract it to a folder.
+## To enable the extension
+- Download this repo and extract it to a folder.
 - Now go chrome and tap chrome://extensions in the url bar.
 - Enable developer mode in the top right corner.
 - Tap on load unpacked (top left corner) and select the folder you extracted the extension to
