@@ -1,3 +1,5 @@
+## 27/03/2022: This extension is no longer maintained because the newest facebook messenger supports this feature by default
+
 # Messenger Any Reaction
 A chrome extension that makes you able to react to messages with any reaction:
 
